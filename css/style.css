@@ -1,0 +1,11 @@
+body { background-image: url("https://besthqwallpapers.com/img/original/39473/european-union-flag-4k-international-organizations-leather-texture-eu-flag.jpg"); background-size: cover; }
+
+body h1 { font-family: fantasy; color: #808e9b; }
+
+body h2 { font-family: fantasy; color: white; }
+
+body #countries { font-family: 'Courier New', Courier, monospace; width: 20%; border-top: solid 15px #c7ecee; border-bottom: solid 15px #c7ecee; border-left: solid 15px #575fcf; border-right: solid 35px #95afc0; background-color: #575fcf; color: white; list-style-type: none; }
+
+body #search { background-color: #1e272e; color: white; border: none; padding: 2.4px; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; }
+
+body #country-name { box-shadow: 1px 1px 5px greenyellow; }
